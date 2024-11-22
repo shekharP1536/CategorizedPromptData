@@ -1,0 +1,28 @@
+Custom License for Dataset Usage
+
+By using this dataset, you agree to the following terms and conditions:
+
+1. **Non-Commercial Use**:
+   - You are allowed to use, share, and adapt this dataset for personal, educational, and research purposes, provided that you **give appropriate credit** to the dataset creator(s).
+   - For non-commercial use, you must acknowledge the original source of the dataset in any public usage or distribution.
+
+2. **Commercial Use**:
+   - You may not use this dataset for **commercial purposes** without obtaining **explicit permission** from the dataset creator(s).
+   - Commercial use includes but is not limited to using the dataset for profit-making activities, including use in products, services, or training models for commercial purposes.
+   - **No modifications** or derivative works are allowed for commercial use. You may not alter or adapt the dataset for commercial applications.
+
+3. **Modification and Usage for Training**:
+   - You may not use this dataset or any modified versions of it to **train models or systems** intended for commercial applications, including machine learning or AI models, without prior permission.
+   - You may not alter the dataset for any purpose that could lead to its use in commercial systems or applications.
+
+4. **Attribution**:
+   - When using this dataset, you must provide proper attribution to the original creator(s).
+   - A typical citation format is as follows: 
+     ```
+     Dataset Name by Shekhar P, available at https://github.com/shekharP1536.
+     ```
+
+5. **Obtaining Permission for Commercial Use**:
+   - To request permission for commercial use of the dataset, please contact me at [your email address] or via GitHub at https://github.com/shekharP1536.
+
+By using this dataset, you agree to abide by these terms. If you violate any of the terms outlined above, you may be required to remove your use of the dataset and cease any associated activities.
