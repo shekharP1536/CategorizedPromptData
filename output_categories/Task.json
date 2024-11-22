@@ -1,0 +1,567 @@
+[
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text from English to Spanish: 'The quick brown fox jumps over the lazy dog.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with dimensions 5cm x 10cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following review: 'I loved this product! It exceeded my expectations.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a standard business letter format."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from Spanish to English: 'La casa es azul.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a circle with radius 5cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from French to English: 'Le caf\u00c3\u00a9 est chaud.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a triangle with base 5cm and height 3cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Rewrite the following text into a more formal tone: 'The new policy is pretty cool, I think.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the total cost of shipping for an order weighing 50 kg and measuring 100 cm in length."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following customer review: 'I love this product! It's amazing.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format a resume according to industry standards."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a circle with radius 20 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Rewrite the following text into a more conversational tone: 'The company's mission statement is clear and concise.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following customer review: 'I'm extremely disappointed with this product.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from English to Spanish: 'The quick brown fox jumped over the lazy dog.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with a length of 5 meters and a width of 3 meters."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following review: 'I loved this product! It exceeded my expectations in every way.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a header with size 36, font bold, and color red: 'Welcome to our website!'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from English to Spanish: 'The quick brown fox jumped over the lazy dog.' The translation should include only one word in English."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with a length of 10 meters and a width of 5 meters. The answer should be rounded to two decimal places."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following review: 'I loved this product! It exceeded my expectations in every way.' The analysis should include only positive and negative sentiments."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a header with size 36, font bold, and color red: 'Welcome to our website!' The formatting should also include a background image of a sunset."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Write a paragraph summarizing the main points of the article 'The Benefits of Meditation' in exactly 150 words, using only the first person singular form of the verb 'to be'."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the total cost of producing 100 units of a product with a material cost of $10 per unit and an overhead cost of $5 per unit, assuming a profit margin of 20%."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the data in the attached spreadsheet to identify trends and patterns in sales revenue over the past quarter. Provide recommendations for improvement based on your findings."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to lowercase: 'This is a sample sentence.' The resulting sentence should be in all lowercase letters. Use a programming language of your choice to achieve this."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of all numbers in the following list: [1, 2, 3, 4, 5]. The calculation should be done using a programming language of your choice. Include only one error check to ensure the input is valid."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the following dataset to identify trends and patterns: [1, 2, 3, 4, 5]. The analysis should be done using a programming language of your choice. Include only one error check to ensure the input is valid."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from English to Spanish: 'The sun is shining brightly in the clear blue sky.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with a length of 10 cm and a width of 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from French to English: 'Le soleil se l\u00c3\u00a8ve au-dessus de la mer.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the volume of a sphere with a radius of 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from German to English: 'Die Sonne scheint heute nach einem langen Winter.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a triangle with base length 10 cm and height 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from Spanish to English: 'El cielo est\u00c3\u00a1 lleno de estrellas.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the volume of a cube with side length 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the text 'Hello, World!' into uppercase and add the word 'AI' to the end."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of 2 + 3 * 4"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the text 'I love this product!' and classify it as positive or negative."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the text 'hello world' into a pun-filled sentence."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the average of 10, 20, and 30"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the text 'I hate this product!' and classify it as positive or negative."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the text 'goodbye world' into a poem."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of 10, 20, and 30"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to uppercase: 'the quick brown fox jumped over the lazy dog'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Reverse the order of the words in this sentence: 'I am going to the store'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a circle with radius 5"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Find the sum of all prime numbers up to 1000"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of this sentence: 'I love this product!'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Identify the main theme of this article: 'The impact of social media on mental health'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a bullet list: '\u00e2\u20ac\u00a2 Item 1'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Convert this paragraph to title case: 'this is a sample paragraph'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Remove all punctuation from the following text: 'hello, world!'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the volume of a cube with side length 10"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the phrase 'The sun is shining brightly' into three different languages: Spanish, French, and Mandarin Chinese. Ensure accurate grammar, spelling, and idiomatic expressions in each translation."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Perform a series of mathematical operations on the following numbers: 4321, 2198, and 7654. Calculate the sum, average, and product of these numbers, then provide the results in both decimal and fractional formats."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze a piece of literary text, identifying themes, motifs, and character arcs within the narrative. Provide a concise summary of the plot, exploring key events, character developments, and symbolic resonance."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format a set of customer data into a structured spreadsheet, ensuring accurate categorization, formatting, and visualization of key metrics. Include headers, footers, and concise summaries for each section of the report."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from English to Spanish: 'The meeting will take place on Friday at 2 PM.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with length 5 meters and width 3 meters."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Rewrite the following text in passive voice: 'The manager will review your application.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the financial statements of Company A and provide recommendations for improvement."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a circle with radius 5 meters."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Translate the following text from English to French: 'The meeting will take place on Friday at 2 PM.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the customer feedback from our latest product launch and provide recommendations for improvement."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a triangle with base 5 meters and height 10 meters."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Write a summary of the text on page 3 of the provided PDF document."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the total cost of $100 worth of goods, given a 10% discount and an additional $20 shipping fee."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of a customer review on a product, indicating whether it is positive or negative."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format a text into a standard resume format, including contact information and work experience sections."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the following sentence into a rhyming couplet: 'The sun is shining brightly in the sky.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of all prime numbers up to 100."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of a given text passage and classify it as positive, negative, or neutral."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following data into a table: | Name | Age | City | John | 25 | New York | Jane | 30 | Los Angeles |"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the following sentence into a rhyming poem: 'The sun is shining brightly in the sky.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of all prime numbers up to 500."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of a given text passage and classify it as positive, negative, or neutral using natural language processing techniques."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the following text into a summary: The quick brown fox jumps over the lazy dog."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the tip for a $100 meal with a 20% gratuity."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following text: The new policy is fair and well-intentioned, but has some minor flaws."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a bullet-point list: Apple, Banana, Cherry"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Transform the following text into a summary: The quick brown fox jumps over the lazy dog. The dog is very happy."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the tip for a $100 meal with a 20% gratuity. What is the total cost?"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following text: The new policy is fair and well-intentioned, but has some minor flaws. However, it is still a step in the right direction."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a bullet-point list: Apple, Banana, Cherry. Orange"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to uppercase: 'the quick brown fox jumped over the lazy dog'."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the value of x in the equation 2x + 5 = 11."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following text: 'I love this restaurant, the food is amazing and the service is top-notch.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a proper paragraph: 'The quick brown fox. Jumped over. The lazy dog.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text from uppercase to lowercase: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the value of x in the equation 2x + 5 = 11"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Remove all vowels from the following text: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following text: 'I love this restaurant, it is so delicious and welcoming.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Solve the equation 3x^2 + 5x - 2 = 0 using the quadratic formula"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Replace all vowels with their corresponding consonant sounds in the following text: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Solve the equation x^2 + 5x - 6 = 0 using the quadratic formula"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Solve the equation x^2 - 5x + 6 = 0 using the quadratic formula"
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to uppercase: The quick brown fox jumps over the lazy dog."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a rectangle with length 5 and width 3."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format a list of ingredients for a recipe in alphabetical order."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to lowercase: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the volume of a rectangular prism with length 10, width 5, and height 3."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following review: I loved the new restaurant, but the service was slow."
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format a list of ingredients for a recipe in alphabetical order, including quantities and cooking times."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to lowercase: 'This is an example sentence.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the sum of 2 + 3 + 4."
+    },
+    {
+        "Category": "Task",
+        "Type": "Analysis",
+        "Prompt": "Analyze the following text to identify its tone: 'This is a very nice day.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Formatting",
+        "Prompt": "Format the following text into a header: 'Example Header'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a circle with radius 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Text Transformation",
+        "Prompt": "Convert the following text to title case: 'this is an example sentence.'"
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the volume of a sphere with radius 5 cm."
+    },
+    {
+        "Category": "Task",
+        "Type": "Calculation",
+        "Prompt": "Calculate the area of a triangle with base 5 cm and height 3 cm."
+    }
+]

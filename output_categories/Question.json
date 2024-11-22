@@ -1,0 +1,392 @@
+[
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the capital of France?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Can you explain the meaning behind this poem: 'The road not taken' by Robert Frost?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "How can we make education more accessible to underprivileged communities?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the capital of China?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the following poem mean: 'The road not taken' by Robert Frost?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What is the greatest risk facing our society today?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the largest planet in our solar system?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does this dream mean: 'I'm standing on stage with millions of people watching me, but I have no clothes on.'"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the chemical symbol for gold?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What is the most pressing issue facing our society today?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "How does the following poem relate to the theme of identity: 'I am not a bird, nor a fish.'"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What would you do if you were given the power to travel anywhere in time and space?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the capital of Australia?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "How does the following poem relate to the theme of love: 'Romeo, take me somewhere we can be alone.'"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What would you do if you were given the power to time travel and witness any historical event?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the capital city of France?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'break a leg' really mean, and why do people say it before a performance?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the largest living structure on Earth?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does it mean to be 'green' in modern society, and how can we embody this value?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does it mean to be 'sustainable' in modern society, and how can we achieve this goal?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the smallest country in the world?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does it mean to be 'authentic' in modern society, and how can we embody this value?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "How does social media affect our self-esteem and mental health?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can we truly be neutral in a world filled with biases?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "How does social media affect our mental health and well-being?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can we truly be happy without material possessions?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the largest mammal on Earth?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Can artificial intelligence truly be creative?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "How many hours a day do you think people should work to be happy?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Can machines truly think like humans?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What is the most important skill for success in life?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "Who is the CEO of Apple?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Can technology truly improve human relationships?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "How many people do you think are missing out on the benefits of social media?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the boiling point of water in Celsius?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the chemical composition of water, including its pH level, solubility in different environments, and potential applications in various industries?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Explain the social implications of the rise of social media platforms on global communication, civic engagement, and individual relationships. Discuss both positive and negative consequences, highlighting key trends, statistics, and expert opinions."
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Imagine a world where virtual reality technology has surpassed human intuition in problem-solving capabilities. Should humanity prioritize the development of this technology or explore alternative approaches to scientific discovery?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Analyze the symbolism in Shakespeare's Hamlet. How does it relate to the human condition?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Analyze the theme of loneliness in The Great Gatsby. How does it relate to the American Dream?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "Who is the author of the book 'To Kill a Mockingbird'?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Analyze the theme of redemption in The Count of Monte Cristo. How does it relate to the concept of justice?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Explain why the character in 'To Kill a Mockingbird' decides to defend Tom Robinson, despite knowing he'll face prejudice and hostility."
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "What would you say to someone who is convinced that vaccines are ineffective?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Explain why the character in 'To Kill a Mockingbird' by Harper Lee is a symbol of moral guidance."
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Argue for or against the statement: 'The pursuit of happiness is the most important human right'."
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'a bird in the hand is worth two in the bush' mean, and why might someone say this?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can artificial intelligence truly be creative, or is it just mimicking human ingenuity?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'a bird in the hand is worth two in the bush' mean?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can a machine ever truly be considered intelligent, or is it just mimicking human behavior?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'the only constant is change' mean in modern society?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can artificial intelligence ever truly be creative, or is it just mimicking human behavior?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the capital of Japan?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'the whole truth' mean in the context of politics?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can humans truly be happy without material possessions?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'the whole truth' mean in the context of politics? Can you provide an example?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can humans truly be happy without material possessions? Is it possible to achieve happiness through experiences?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "How does the concept of 'identity' change throughout the course of a person's life?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Is it better to have a fulfilling career or a happy personal life? Why or why not?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'break a leg' really mean?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can machines ever truly be creative?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'bend over backwards' really mean?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can artificial intelligence ever truly understand human emotions?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the chemical symbol for carbon?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'cut to the chase' really mean?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Can robots ever truly be helpful to society?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the chemical symbol for iron?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'give someone an earful' really mean?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Explain the symbolism behind the rose in Romeo and Juliet."
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "If you could travel anywhere in time, where would you go?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the largest living species of lizard?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "Explain the symbolism behind the color green in art and literature."
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "If you could switch lives with anyone for a day, who would it be and why?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'break a leg' mean in modern English?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Which is more beautiful, the Mona Lisa or the Scream?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Interpretive",
+        "Prompt": "What does the phrase 'the straw man argument' mean in modern English?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Rhetorical",
+        "Prompt": "Which is more interesting, the movie 'The Matrix' or the book 'Dune'?"
+    },
+    {
+        "Category": "Question",
+        "Type": "Factual",
+        "Prompt": "What is the largest living thing on Earth?"
+    }
+]

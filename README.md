@@ -16,7 +16,7 @@ The dataset is structured as a list of JSON objects, where each object represent
   "Type": "Text",
   "Prompt": "Write a short story about a character who discovers a hidden world within their reflection."
 }
-
+```
 
 ### Full Example Dataset:
 ```json

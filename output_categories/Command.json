@@ -1,0 +1,462 @@
+[
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Execute the command `git push origin master` in your local repository."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Provide step-by-step instructions for assembling a bookshelf."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following Python code: `print('Hello World!')`"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Execute the command `git pull origin master` in your local repository."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Execute the command `git commit -m 'Initial commit'` in your local repository."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Restart the computer in 5 seconds."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Explain how to assemble a piece of furniture using only visual instructions."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files with a .doc extension from the desktop."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Explain how to cook a perfect steak using only visual instructions."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Create a new user account with default settings."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Book a flight from New York to Los Angeles for tomorrow at 8am."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Execute the following SQL query: 'SELECT * FROM customers WHERE country='USA'.'"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files and folders on the C drive of a Windows computer. The deletion should be done securely to prevent data loss."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Book a flight from New York to Los Angeles for tomorrow at 8am. The booking should include only one passenger and one piece of luggage."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Execute the following SQL query: 'SELECT * FROM customers WHERE country='USA'.' The execution should be done in a secure environment to prevent data loss."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files and folders on the D drive of a Windows computer. The deletion should be done securely to prevent data loss, and include only one exception: the 'Documents' folder."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Book a flight from Los Angeles to New York for next Wednesday at 9am. The booking should include only one passenger and one piece of luggage, and be executed via online travel agency."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Execute the following SQL query: 'SELECT * FROM orders WHERE total_amount > 100.' The execution should be done in a secure environment to prevent data loss, and include only one index for optimization."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Back up all files on a Windows computer to an external hard drive. The backup should be done securely to prevent data loss, and include only one exception: the 'Documents' folder."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Back up all files on a Windows computer to an external hard drive. The backup should be done securely to prevent data loss, and include only one exception: the 'Documents' folder. Use the `robocopy` command to achieve this."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Execute the following SQL query: 'SELECT * FROM orders WHERE total_amount > 100.' The execution should be done in a secure environment to prevent data loss, and include only one index for optimization. Use the `EXPLAIN` keyword to analyze the query plan."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files on a Linux system that are older than 30 days. The operation should be done securely to prevent data loss, and include only one exception: the '/home' directory. Use the `find` command to achieve this."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Provide step-by-step instructions on how to set up a new Wi-Fi network on a Windows system. The instructions should be clear and concise, and include only one error check to ensure the input is valid."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all temporary files on a Windows system that are older than 30 days. The operation should be done securely to prevent data loss, and include only one exception: the '/Documents' directory. Use the `cleanmgr` command to achieve this."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Provide step-by-step instructions on how to set up a new Wi-Fi network on a Linux system. The instructions should be clear and concise, and include only one error check to ensure the input is valid."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Print a greeting message on the screen and wait for user input."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Read a file named 'example.txt' and print its contents to the screen."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete a file named 'example.txt' and move it to the trash."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Read a file named 'example.txt' and print its contents to the screen, then delete it and move it to the trash."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Launch the Google Chrome browser and navigate to the homepage."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new folder called 'Project' in the Documents directory and add the file 'main.py'."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the Python script 'hello_world.py' to display a greeting message."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Launch the Microsoft Office application and create a new document."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new folder called 'Projects' in the Documents directory and add the file 'report.docx'."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Launch the Adobe Photoshop application and create a new document."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new folder called 'Graphics' in the Documents directory and add the file 'report.pdf'."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Restart the computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Write a short paragraph about artificial intelligence."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Play a game of chess against me."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files on the C drive"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Explain the concept of machine learning to a beginner."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Generate a random joke for me."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Update all software on this computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new artificial intelligence program from scratch."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Translate the following text into Spanish: 'The sun is shining today'."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Format all files on this computer to be compatible with Windows."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Initiate a system reboot sequence on your personal laptop, ensuring all running processes are terminated and files are saved. Provide a step-by-step guide for the user to complete this task safely."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Schedule an appointment with a doctor's office within the next two weeks, specifying your preferred date, time, and any necessary medical information. Provide detailed instructions on how to prepare for the appointment, including transportation and parking arrangements."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Automatically execute a batch file containing commands to update software dependencies, check for security patches, and run system diagnostics. Ensure all tasks are completed within a 30-minute timeframe without interrupting the system's normal operation."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Initiate a backup procedure on your personal computer, ensuring all data is safely stored and can be restored in case of system failure. Provide step-by-step instructions for the user to complete this task securely."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Schedule an appointment with a dentist or orthodontist within the next two weeks, specifying your preferred date, time, and any necessary medical information. Provide detailed instructions on how to prepare for the appointment, including transportation and parking arrangements."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Turn on the computer and open the default web browser."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Print your name to the console."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all temporary files on your computer."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Open a new tab in your browser and navigate to Google's homepage."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Restart your computer and log in with your credentials."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Open the default web browser on this device and navigate to Google.com."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Write a step-by-step guide for assembling an IKEA bookshelf, including necessary tools and materials."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Send an email to John Doe at john.doe@example.com with the subject 'Reminder: Meeting Next Wednesday'."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Shut down the computer system and restart the operating system."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Write a step-by-step guide for assembling a bookshelf, including all necessary tools and materials."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Simulate the process of launching a spacecraft into orbit, including all necessary calculations and checks."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Restart the computer."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new folder named 'Documents' in the user's home directory."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following Python code: print('Hello, World!')"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Restart the computer. What is the process for restarting a Windows computer?"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Create a new folder named 'Documents' in the user's home directory. What are the steps to follow?"
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following Python code: print('Hello, World!'). Can you explain how this code works?"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all files from the 'Documents' folder."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Play the song 'Happy Birthday' on repeat for the next 5 minutes."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the Python script 'main.py' in the background."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Create a new folder called 'Projects' in the root directory of your computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Download the latest version of Google Chrome on your computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following command in your terminal: python -m pip install requests"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete the contents of all folders in your 'Downloads' directory"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Update your operating system to the latest version"
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following command in your terminal: python -m pip install tensorflow"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all temporary files on your computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Update your browser to the latest version"
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following command in your terminal: python -m pip install pandas"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Delete all system logs on your computer"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Open a new spreadsheet in Google Sheets and create a new sheet called 'Sales'."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Take a photo of the Eiffel Tower using your smartphone camera."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Write a Python program that prints 'Hello, World!' to the console."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Open a new presentation in Google Slides and create a new slide called 'Introduction'."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Take a photo of the Eiffel Tower using your smartphone camera, then edit it to enhance the colors."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Write a Python program that prints the first 10 numbers in a sequence starting from 1."
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Reboot the computer system."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Set your alarm clock for 7:00 AM tomorrow."
+    },
+    {
+        "Category": "Command",
+        "Type": "Execution",
+        "Prompt": "Run the following Python code in a terminal: print('Hello World')"
+    },
+    {
+        "Category": "Command",
+        "Type": "System Operation",
+        "Prompt": "Update the operating system to the latest version."
+    },
+    {
+        "Category": "Command",
+        "Type": "Instruction",
+        "Prompt": "Set your reminder for tomorrow at 3:00 PM."
+    }
+]

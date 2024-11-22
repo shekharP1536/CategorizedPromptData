@@ -1,0 +1,407 @@
+[
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "How was your weekend?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Can you tell me about a topic that interests you?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "What's the best way to spend a Saturday afternoon?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Discuss the latest sports game and its implications on the team's morale."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the ethics of artificial intelligence and its impact on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Plan a weekend getaway to a nearby city."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Discuss the latest technology trends and their potential impact on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about the weather."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Have a casual conversation with a friend about their weekend plans."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about the weather. The conversation should last for exactly one minute."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations. The conversation should be conducted in person, not online or over the phone."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Have a casual conversation with a friend about their weekend plans. The conversation should include only two topics: work and leisure time."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their weekend plans. The conversation should last for exactly two minutes and include only one topic: travel."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations. The conversation should be conducted in person, not online or over the phone, and last for exactly three minutes."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Have a casual conversation with a friend about their weekend plans. The conversation should include only two topics: work and leisure time, and be conducted in person."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their favorite hobby. The conversation should last for exactly three minutes and include only one topic: sports."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations. The conversation should be conducted in person, not online or over the phone, and last for exactly two minutes."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Have a casual conversation with a friend about their weekend plans. The conversation should include only one topic: work, and be conducted in person."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their favorite hobby. The conversation should last for exactly three minutes and include only one topic: sports. Ask follow-up questions to delve deeper into their interests."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations. The conversation should be conducted in person, not online or over the phone, and last for exactly two minutes. Use open-ended questions to encourage sharing."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their favorite hobby. The conversation should last for exactly three minutes and include only one topic: sports. Use positive body language to show interest and build rapport."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Start a conversation about a new restaurant in town and ask for recommendations. The conversation should be conducted in person, not online or over the phone, and last for exactly two minutes. Use active listening skills to show engagement and interest."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their favorite type of music. The conversation should last for exactly three minutes and include only one topic: genres. Ask follow-up questions to delve deeper into their interests."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Make small talk with a stranger about their favorite type of food. The conversation should last for exactly three minutes and include only one topic: cuisine. Ask follow-up questions to delve deeper into their interests."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Talk to me about your favorite hobby and why you enjoy it so much."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the ethics of AI development and its impact on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Talk about your favorite food and why you enjoy eating it so much."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the ethics of AI development, its impact on society, and potential solutions for mitigating negative consequences."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Chat about your weekend and what you did during the holidays."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the concept of time travel and its potential implications on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Make conversation about a recent TV show or movie you watched and your thoughts on it."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Chat about your favorite hobbies and interests."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the concept of artificial general intelligence and its potential impact on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Make conversation about a recent movie or TV show you watched and your thoughts on it."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Chat about your favorite books and authors."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the concept of blockchain technology and its potential impact on society."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Make conversation about a recent book or article you read and your thoughts on it."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What's been the highlight of your week so far?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Do you have any fun plans for the weekend?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "How's your day going so far?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What do you like to do in your free time?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Have you traveled anywhere exciting recently?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Do you have any pets?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What's your favorite hobby?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Have you tried any good restaurants lately?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "How do you like to spend a Saturday afternoon?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Discuss the benefits of weekend getaways for stress relief and creativity rejuvenation. Explore common themes, such as travel experiences, favorite destinations, and tips for making the most of a short trip."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Engage in a debate about the ethics of artificial intelligence development, considering topics like job displacement, bias in decision-making, and potential benefits for humanity. Encourage both opposing views and facilitate constructive discussion on finding middle ground."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Plan a spontaneous road trip to a nearby national park, discussing attractions, activities, and accommodation options. Include recommendations for scenic stops, picnic spots, and unique experiences that showcase the region's natural beauty."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Discuss the benefits of taking regular breaks during work hours to improve productivity and focus. Explore common themes, such as stress management, self-care, and finding a balance between work and personal life."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Engage in a debate about the ethics of social media use, considering topics like data collection, online harassment, and the impact on mental health. Encourage both opposing views and facilitate constructive discussion on finding middle ground."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Plan a weekend getaway to a nearby city or town, discussing attractions, activities, and accommodation options. Include recommendations for scenic stops, picnic spots, and unique experiences that showcase the region's culture and history."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Discuss the benefits and drawbacks of adopting a plant-based diet for improved health and environmental sustainability. Explore common themes, such as food security, cultural diversity, and personal choice."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Engage in a debate about the ethics of artificial intelligence development, considering topics like job displacement, bias in decision-making algorithms, and the potential for machines to surpass human intelligence. Encourage constructive discussion on finding middle ground."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What's your favorite hobby? I'm really into hiking lately."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "How was your weekend? Any fun plans for the upcoming week?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "What's the most interesting thing you've learned recently? I'm always looking for new topics to explore."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What do you like to do in your free time? I'm always looking for new hobbies to try."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "What's the most exciting thing you've done recently? I'm always looking for new adventures to try."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Start a conversation with someone about their weekend plans, and ask follow-up questions based on their response."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the benefits of meditation as a stress-reduction technique, including its history and cultural significance."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Plan a fun outing with friends, such as going to a concert or trying a new restaurant, and describe it in detail."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Role-Play",
+        "Prompt": "Engage in a role-playing conversation where one person is a customer service representative and the other is a customer, discussing a product return policy."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Chat with someone about their weekend plans and interests."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the implications of social media on modern society, including its benefits and drawbacks."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "Engage in a friendly debate about the merits of pizza as a food choice, including toppings and crust types."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Can you tell me about a time when you tried something new and failed?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "How was your weekend?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What's your favorite hobby? Do you have any hobbies that you enjoy in your free time?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Can you tell me about a time when you tried something new and failed? What did you learn from the experience?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "How was your weekend? Did you do anything fun or exciting?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "What's your favorite hobby and why do you enjoy it?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the implications of artificial intelligence on society, including its potential benefits and drawbacks."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "What's your favorite food and restaurant? Have you tried any new dishes recently?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Tell me about your favorite hobby and why you enjoy it."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the benefits of meditation for mental health."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "What's your favorite type of music and why?"
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Small Talk",
+        "Prompt": "Tell me about your favorite travel destination and what you liked most about it."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Exploration",
+        "Prompt": "Discuss the benefits of meditation for mental health, including reduced stress and anxiety."
+    },
+    {
+        "Category": "Conversation",
+        "Type": "Casual",
+        "Prompt": "What's your favorite type of cuisine and why do you enjoy it?"
+    }
+]

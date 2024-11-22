@@ -1,0 +1,307 @@
+[
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what you mean by 'artificial intelligence' in this context?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify the accuracy of the following statement: 'The sun is 93 million miles away from Earth.'"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm whether you have completed the task assigned to you."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Clarify what you mean by 'I'm feeling overwhelmed.'"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify the accuracy of the following statement: 'The sun rises in the east.'"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Clarify the details of my previous request: 'Can you send me the report by EOD?'"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify that the information I provided earlier is correct."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm whether or not you received my email about the meeting on Friday."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Clarify the details of my previous request: 'Can you send me the report by EOD?' The clarification should be done via email, not phone or in-person."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify that the information I provided earlier is correct. The verification should include only one piece of data: a username and password."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm whether or not you received my email about the meeting on Friday. The confirmation should be done via phone call, not text message or in-person."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Clarify the details of my previous request: 'Can you send me the report by EOD?' The clarification should be done via email, not phone or in-person, and include only one attachment."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify that the information I provided earlier is correct. The verification should include exactly two pieces of data: a username and password."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm whether or not you received my email about the meeting on Friday. The confirmation should be done via phone call, not text message or in-person, and include only one follow-up question."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Clarify the details of my previous request: 'Can you send me the report by EOD?' The clarification should be done via email, not phone or in-person, and include only one attachment. Use a clear and concise subject line to ensure prompt attention."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify that the information I provided earlier is correct. The verification should include exactly two pieces of data: a username and password. Use a secure method of communication, such as encryption, to ensure confidentiality."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what you mean by 'artificial intelligence'?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Can you verify whether the statement 'AI is capable of experiencing emotions' is true or false?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you provide more information about the benefits of meditation?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Can you verify whether the statement 'AI is capable of experiencing emotions' is true or false using evidence-based research?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you provide more information on the impact of climate change on global food production?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is it true that AI can be used to predict stock prices with high accuracy?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Can you confirm whether the weather forecast is correct for today's date and location?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you provide more information on the benefits of meditation for stress relief?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is it true that AI can be used to analyze medical images with high accuracy?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Confirm whether your friend has received an invitation to a social event next week, including details on date, time, location, and dress code. Provide reassurance and clarification on any concerns or misunderstandings."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify the accuracy of information regarding a recent scientific breakthrough in renewable energy technology. Ensure all sources are credible, highlighting key findings, data analysis, and implications for future research and development."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm your understanding of a complex technical concept after listening to an expert explanation. Provide clarification on any points of confusion or uncertainty, ensuring you grasp the underlying principles and terminology."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you explain the plot twist in The Shawshank Redemption?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Did you attend the meeting yesterday at 2 PM? I wasn't sure if it was confirmed."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Did you like the presentation we gave last week? We'd love to hear your feedback."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you explain the concept of dark matter and its implications on our understanding of the universe?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Did you receive the package we sent yesterday? I wasn't sure if it was delivered."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Confirm the details of an upcoming meeting, including date, time, location, and agenda."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Check if a report about a recent accident is accurate, by verifying key facts such as location and time."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm whether the user wants to proceed with an action that may have unintended consequences."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Question",
+        "Prompt": "Can you clarify what the instructions for a new software program are?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Ask for clarification on a specific point made during a previous conversation or meeting."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Verify the accuracy of a reported fact or statistic, including its sources and methodology."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Confirm that a particular decision or plan is acceptable to all parties involved, including necessary details and next steps."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what you meant by 'the whole truth' in the context of politics?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is the statement 'The Earth orbits around the Sun in an elliptical path' true?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Are you willing to confirm that you will complete the task by Friday?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what you meant by 'the whole truth' in the context of politics? Can you provide an example from a news article?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is the statement 'The Earth orbits around the Sun in an elliptical path' true? What evidence supports this claim?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Are you willing to confirm that you will complete the task by Friday? Can you provide a specific timeline for completion?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you explain the concept of 'artificial intelligence' in simpler terms?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is it true that the Great Wall of China is visible from space? Verify this claim."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Do you agree with the statement 'the best way to learn a new language is through immersion'? Confirm or deny this statement."
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you explain the difference between a simile and a metaphor?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is it true that Pluto is no longer considered a planet?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Did you understand the instructions for the task assignment?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you explain the difference between a simile and a metaphor in literature?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is it true that Pluto was reclassified as a dwarf planet in 2006?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Did you understand the instructions for the task assignment, including the deadline and requirements?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what you mean by 'AI' in this context?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is the statement 'The sky is blue' true or false?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Confirmation",
+        "Prompt": "Can you confirm whether or not your previous response was correct?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you elaborate on what 'AI' means in this context?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Verification",
+        "Prompt": "Is the statement 'The answer is correct' true or false?"
+    },
+    {
+        "Category": "Clarification",
+        "Type": "Follow-Up",
+        "Prompt": "Can you clarify what 'AI' means in this context?"
+    }
+]

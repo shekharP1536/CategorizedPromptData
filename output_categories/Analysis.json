@@ -1,0 +1,242 @@
+[
+    {
+        "Category": "Analysis",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of a given text passage and classify it as positive, negative, or neutral using natural language processing techniques."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the tone of a passage written by Jane Austen's character, Elizabeth Bennet."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of symbolism in William Shakespeare's 'Romeo and Juliet'."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare the economic policies of Adam Smith and Karl Marx."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the plot of a sci-fi novel, 'Dune', by Frank Herbert."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the effectiveness of a marketing campaign for a new product launch."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the historical context and significance of the Treaty of Versailles."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the philosophies of Plato and Aristotle."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the character development in a Shakespearean play, 'Hamlet'."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the social implications of a technological advancement, such as artificial intelligence."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the impact of climate change on global economies."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare the literary styles of authors, Gabriel Garcia Marquez and Haruki Murakami."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the marketing strategy behind a successful brand's product launch."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the historical significance of the Rosetta Stone."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of propaganda in historical events, such as World War II."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the economic systems of capitalism and socialism."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the plot twists in a mystery novel, 'Gone Girl', by Gillian Flynn."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the effectiveness of a crisis management plan for a company."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the cultural impact of hip-hop music on society."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of humor in advertising and its effects on consumer behavior."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the leadership styles of Abraham Lincoln and Nelson Mandela."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the impact of social media on personal relationships."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the effectiveness of a business plan for a new startup."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the historical significance of the fall of the Berlin Wall."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of emotional appeals in political campaigns."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the artistic styles of artists, Vincent van Gogh and Paul Cezanne."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the plot development in a historical novel, 'The Red Tent', by Anita Diamant."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the impact of economic sanctions on international relations."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the cultural exchange between Eastern and Western civilizations throughout history."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of branding in advertising and its effects on consumer loyalty."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the business models of companies, Amazon and Google."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the marketing strategy behind a successful product launch for a new smartphone model."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the effectiveness of a public health campaign for reducing obesity rates."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the impact of climate change on global food systems."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of social norms in influencing consumer behavior."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the historical context of the American Civil Rights Movement and the Chinese Communist Revolution."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the plot twists in a psychological thriller novel, 'Misery', by Stephen King."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the impact of technological advancements on the job market."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the cultural significance of music festivals, such as Coachella and Glastonbury."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of humor in comedy clubs and its effects on audience engagement."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the leadership styles of Martin Luther King Jr. and Mahatma Gandhi."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the plot development in a romance novel, 'Pride and Prejudice', by Jane Austen."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Evaluate the effectiveness of a crisis management plan for a company facing a natural disaster."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Discuss the impact of globalization on local economies."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Examine the use of branding in sports marketing and its effects on fan loyalty."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Compare and contrast the business models of companies, Apple and Samsung."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Text",
+        "Prompt": "Analyze the marketing strategy behind a successful product launch for a new fashion brand."
+    },
+    {
+        "Category": "Analysis",
+        "Type": "Analysis",
+        "Prompt": "Analyze the sentiment of the following review: I loved the new restaurant!"
+    }
+]

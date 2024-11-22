@@ -1,0 +1,472 @@
+[
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current temperature in New York City is 75\u00c2\u00b0F."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the 2020 US presidential election results."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the characteristics of a black hole."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current temperature in London is 55\u00c2\u00b0F."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current temperature in Paris is 45\u00c2\u00b0F."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current global temperature is 15.6\u00c2\u00b0C."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the upcoming holiday season, including popular traditions and gift ideas."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the process of photosynthesis in plants."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current population of the United States is approximately 331 million."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide an overview of the history of ancient Egypt."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the process of mitosis in cells."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Sun is the largest object in our solar system."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the following historical event: 'The Battle of Gettysburg.'"
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the unique features of the Amazon rainforest ecosystem."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human nose can detect over 1 trillion different scents."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the following historical event: 'The Great Fire of London in 1666.' The context should include only one paragraph of text."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The capital of France is Paris. The population of Tokyo is approximately 13.9 million people."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "This is a confidential document containing sensitive information about the company's financial reports. Please do not share with anyone outside the organization."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The Eiffel Tower is an iconic landmark in Paris, France, built for the 1889 World's Fair. It stands at 324 meters tall and was originally intended to be a temporary structure."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The capital of France is Paris. The population of Tokyo is over 13 million people. The highest mountain in the world is Mount Everest, located in the Himalayas."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "The following text provides context for understanding the current situation: 'The company has been experiencing a decline in sales over the past quarter. The CEO has announced plans to cut costs and increase production.' The context should be used to inform a decision-making process, but do not include any assumptions or biases."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The following text provides a description of a product: 'This is a high-end smartphone with advanced features and a sleek design.' The description should be used to inform a decision-making process, but do not include any assumptions or biases."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth is the third planet from the Sun in our solar system."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human brain contains over 100 billion neurons."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The largest mammal on Earth is the blue whale."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human eye contains over 100 million photoreceptors."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth is the third planet from the Sun."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide background information on the topic of artificial intelligence and its applications."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features and benefits of a smartwatch."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The sun rises in the east and sets in the west."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide background information on the topic of sustainable energy sources."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features and benefits of a solar panel system."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth orbits around the sun."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide background information on the topic of renewable energy sources."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features and benefits of a wind turbine system."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "In 1989, Tim Berners-Lee invented the World Wide Web."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The largest mammal on Earth is the blue whale, which can grow up to 33 meters in length."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "In ancient Egypt, the pharaohs were believed to be gods on earth."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The Great Barrier Reef is the largest living structure on Earth, spanning over 2,300 kilometers."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "A group of flamingos is called a 'flamboyance'."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "In the 1960s, the first commercial jet airliner was introduced."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The Andes mountain range stretches for over 7,000 kilometers across South America."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "A person's heart beats around 100,000 times per day."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current global temperature is expected to rise by at least 3\u00c2\u00b0C above pre-industrial levels within the next century, according to a recent report from the Intergovernmental Panel on Climate Change."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "As a historian studying ancient civilizations, you've discovered a previously unknown manuscript detailing the societal structure, politics, and cultural practices of an advanced ancient society. Provide a detailed summary of the manuscript's contents and significance."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the visual appearance of a rare species of butterfly native to the Amazon rainforest, including its coloration, wing patterns, habitat preferences, and unique adaptations for survival."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human brain contains approximately 86 billion neurons, which are interconnected by trillions of synapses. Describe the functions and importance of each component in our overall cognitive abilities."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Analyze the economic implications of globalization on small businesses. Discuss the benefits and drawbacks, including job creation, cultural exchange, and the impact on local economies."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the unique characteristics of a rare species of plant found in the Amazon rainforest, including its growth patterns, adaptations for survival, and potential applications in medicine or environmental conservation."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The world's largest living structure is the Great Barrier Reef, spanning over 2,300 kilometers off the coast of Australia. Describe its importance as a natural wonder, its unique ecosystem, and potential threats to its survival."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Analyze the impact of climate change on global food security, including rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events. Discuss potential solutions and adaptations for mitigating these effects."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the process by which a new species is discovered and classified, including the role of taxonomy, genetics, and biogeography in determining its place within the natural world."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human brain contains over 100 billion neurons, each capable of forming thousands of connections with other cells. Describe the intricate mechanisms by which these neural networks process information, learn, and adapt to changing environments."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Analyze the impact of social media on modern society, including its effects on mental health, relationships, and global politics. Discuss potential solutions and strategies for mitigating the negative consequences of excessive social media use."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the process by which a new scientific theory is developed and tested, including the role of experimentation, data analysis, and peer review in validating or refuting existing knowledge."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current CEO of Tesla is Elon Musk."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "What are the current exchange rates for USD, EUR, and JPY?"
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features of a new smartphone model, including its display size, processor speed, and camera resolution."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The current CEO of Apple is Tim Cook."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "What are the current stock prices for Google, Amazon, and Microsoft?"
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features of a new smartwatch model, including its display size, processor speed, and battery life."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The capital of Japan is Tokyo."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide background information on the historical context of the American Revolution, including key dates and events."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the visual appearance of a giant sequoia tree, including its trunk diameter, canopy size, and leaf color."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The capital of France is Paris."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide background information on the ancient city of Pompeii, including its history and significance."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Describe the historical context of the American Civil War, including key events and figures."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the chemical composition of water, including its molecular structure and properties."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth orbits around the Sun in an elliptical path."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the following quote: 'The only thing necessary for the triumph of evil is for good men to do nothing.' - Edmund Burke"
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the characteristics of a corgi."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth orbits around the Sun in an elliptical path. What is the approximate distance between the two?"
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the following quote: 'The only thing necessary for the triumph of evil is for good men to do nothing.' - Edmund Burke. How does this quote relate to current events?"
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the characteristics of a goldfish."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "This text provides information about the history of the Roman Empire, including its rise to power and decline."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the features of a typical redwood tree in California's forests."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth is approximately 4.5 billion years old."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The Eiffel Tower in Paris, France is approximately 324 meters tall."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "The context of the conversation is about planning a surprise birthday party for a friend."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "The Great Barrier Reef in Australia is approximately 2,300 kilometers long."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "The context of the conversation is about planning a surprise party for a coworker."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The human brain contains approximately 86 billion neurons."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "The context of the conversation is about planning a surprise wedding for a friend."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The capital of Australia is Canberra."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the historical event of the American Revolution."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the color blue in a way that evokes emotion."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Provide context for the historical event of the American Civil War."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the sound of a babbling brook in a way that evokes emotion."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The Earth orbits around the Sun."
+    },
+    {
+        "Category": "Information",
+        "Type": "Context",
+        "Prompt": "Describe the historical context of the American Revolution."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the physical characteristics of a black hole."
+    },
+    {
+        "Category": "Information",
+        "Type": "Statement",
+        "Prompt": "The sun is a star."
+    },
+    {
+        "Category": "Information",
+        "Type": "Description",
+        "Prompt": "Describe the structure of a molecule."
+    }
+]

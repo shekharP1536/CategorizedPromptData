@@ -1,0 +1,582 @@
+[
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short story about a character who discovers a hidden world within their reflection."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic cityscape with towering skyscrapers and flying cars."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password based on user input."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a 3-minute song in the style of electronic dance music."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the beauty of nature."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a serene landscape with rolling hills and a sunset in the background."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password based on user input and store it securely."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a 3-minute song in the style of classical music."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a story about a character who learns a new skill."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a 3-minute song in the style of electronic music."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short story about a character who discovers a hidden world within their own reflection."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a Python function that calculates the area of a rectangle given its length and width."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Create a new song in the style of EDM with a tempo of 128 BPM."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a Python function that calculates the sum of all numbers in a given list."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a futuristic cityscape at sunset, with sleek skyscrapers and flying cars zipping by."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password of at least 12 characters, including uppercase letters, lowercase letters, numbers, and special characters."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a children's song about the importance of recycling, using only notes within the key of C major."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the beauty of nature during a stormy weather."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a futuristic robot walking on Mars, with a Martian landscape in the background."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password of at least 12 characters, including uppercase letters, lowercase letters, numbers, and special characters. The password should also contain at least one uppercase letter, one lowercase letter, one number, and one special character."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a children's song about the importance of recycling, using only notes within the key of C major. The melody should be catchy and easy to remember."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short story about a character who discovers a hidden world within their own reflection. The story should be exactly 250 words long."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a futuristic cityscape at sunset, with towering skyscrapers and flying cars zipping by. The image should include only one character in the foreground: a young woman walking towards the camera."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password of at least 12 characters, including uppercase letters, lowercase letters, numbers, and special characters. The password should also contain at least one uppercase letter, one lowercase letter, one number, and one special character. The script should be executable as a standalone program."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a children's song about the importance of recycling, using only notes within the key of C major. The melody should include exactly three sections: an introduction, a verse, and a chorus."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password of at least 12 characters, including uppercase letters, lowercase letters, numbers, and special characters. The password should also contain at least one uppercase letter, one lowercase letter, one number, and one special character. Use the `random` module and include comments for clarity."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a futuristic cityscape at sunset, with towering skyscrapers and flying cars zipping by. The image should include only one character in the foreground: a young woman walking towards the camera. Use a color palette of blues and purples to create a sense of drama."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a peaceful forest at dawn, with tall trees and a misty atmosphere. The image should include only one character: a rabbit walking towards the camera. Use a color palette of greens and browns to create a sense of serenity."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Create an image of a futuristic cityscape at night, with towering skyscrapers and neon lights. The image should include only one character: a robot walking towards the camera. Use a color palette of blues and silvers to create a sense of futurism."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a simple calculator program in Python that takes two numbers and an operator as input and returns the result."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the beauty of nature and its effects on the human mind."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a simple chatbot program in Python that takes user input and responds with pre-defined answers."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a mysterious forest at night, with glowing eyes and eerie fog."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short script for a conversation between two friends discussing their plans for the weekend."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a simple game of Tic-Tac-Toe in Python that takes user input and updates the board accordingly."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic cityscape with towering skyscrapers, flying cars, and a bright sunny sky."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short story about a character who discovers a hidden world within their reflection and must navigate its challenges."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a simple chatbot program in Python that takes user input, responds with pre-defined answers, and can learn from feedback."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a mysterious forest at night, with glowing eyes, eerie fog, and an abandoned cabin in the distance."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short poem about a sunset on the beach."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design an image of a futuristic cityscape at night with towering skyscrapers and neon lights."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Generate a short story about a character who discovers a hidden world within their reflection."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a script for a conversation between two characters in a sci-fi movie."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a script for a conversation between two characters in a historical drama."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the changing seasons, exploring themes of growth, decay, and renewal. Incorporate sensory details from nature and maintain a consistent rhythm throughout."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a futuristic cityscape with towering skyscrapers, advanced transportation systems, and sustainable energy sources. Include iconic landmarks, bustling streets, and a vibrant atmosphere at night."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Implement a basic encryption algorithm using Python, incorporating the Caesar Cipher technique to scramble plaintext messages. Ensure proper error handling and secure key management."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose an original piece of electronic music, exploring atmospheric soundscapes and dynamic rhythms. Incorporate sounds from nature, ambient textures, and a driving beat to create an immersive experience."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short story about a character who discovers a hidden world within their own reflection. Explore themes of identity, self-discovery, and the power of imagination."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a futuristic cityscape with towering skyscrapers, advanced technology, and sustainable infrastructure. Include detailed descriptions of the buildings, transportation systems, and inhabitants' daily lives."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a poem about the changing seasons, using sensory language to describe the sights, sounds, and smells associated with each time of year. Explore the emotional connections we make with nature throughout our lives."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Illustrate a scene from a classic novel or fairy tale, using modern art styles and interpretations. Choose a character-driven story with a strong female protagonist and explore themes of empowerment and growth."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a script for a skit about a character who tries to understand the concept of time travel, but ends up stuck in an infinite loop. Explore themes of paradoxes, cause-and-effect relationships, and the consequences of altering the timeline."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a futuristic transportation system that combines sustainable energy sources with advanced technology. Include detailed descriptions of the vehicles, infrastructure, and logistics involved in maintaining the system."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the intersection of technology and humanity, exploring the benefits and drawbacks of our increasing reliance on machines. Use sensory language to describe the sights, sounds, and feelings evoked by this complex relationship."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a futuristic cityscape with towering vertical farms, advanced water management systems, and sustainable energy sources. Include detailed descriptions of the buildings, transportation systems, and inhabitants' daily lives in a highly urbanized environment."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a short story about a character who discovers a hidden world within their own reflection, only to find that this alternate reality is inhabited by echoes of past and future versions of themselves. Explore themes of identity, self-discovery, and the consequences of divergent timelines."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Illustrate a scene from a classic novel or fairy tale, using modern art styles and interpretations. Choose a story with a strong female protagonist and explore themes of empowerment, growth, and transformation in the face of adversity."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a Python script to generate a random password of at least 12 characters including uppercase and lowercase letters, numbers, and special characters."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a logo for a new eco-friendly startup that promotes sustainable living practices."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about the beauty of nature and its impact on human emotions."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a JavaScript function to check if a string contains any vowels."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a new product for an eco-friendly brand that promotes sustainable fashion practices."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a script for a short film about a character who discovers a new talent for painting."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a new packaging design for an eco-friendly brand that promotes sustainable living practices."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a script for a short film about a character who discovers a new talent for playing the guitar."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Describe the feeling of walking on a sandy beach at sunrise, without any distractions or worries."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python function to calculate the area of a circle given its radius."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a classical orchestra, incorporating a repeating pattern of three notes."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a poem about the beauty of nature, using only words that start with the letter 's'."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a futuristic cityscape at sunset, including notable landmarks and architecture."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random password with uppercase and lowercase letters, numbers, and special characters."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a song about love, using only 5 notes: C, E, G, A, and D."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short script for a sci-fi movie about time travel."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a futuristic cityscape at night, including notable landmarks and architecture."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python script to generate a random art piece using the ASCII character set."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a melody for a song about technology, using only electronic instruments."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic cityscape at night."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a song in the style of jazz using only three notes: C, E, and G."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic robot."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python function to calculate the volume of a sphere given its radius."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a song in the style of classical music using only three notes: C, E, and G."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a poem about the changing seasons, using the colors of the rainbow as inspiration."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Design a futuristic cityscape with towering skyscrapers and neon lights."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a Python program to simulate a simple banking system, including deposits, withdrawals, and account balances."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a song in the style of jazz, using a improvisational melody and chord progression."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic cityscape at sunset."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody for a piano piece using only three notes: C, E, and G."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a realistic portrait of a historical figure."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short orchestral piece using only five notes: C, E, G, A, and B."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short speech about the importance of environmental conservation."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a futuristic cityscape at sunset, with a focus on skyscrapers."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short piano piece using only three notes: C, E, and G."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short essay about the importance of education."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Generate an image of a realistic portrait of a historical figure, with a focus on their clothing."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a poem about a sunset on a beach."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a character backstory for a fantasy novel."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Generate a short script for a scene in a sci-fi movie."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a painting of a serene landscape and label its components."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a program to simulate the game of Rock, Paper, Scissors."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody for a theme song in a video game."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Create a character backstory for a fantasy novel set in ancient Egypt."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Generate a list of potential plot twists for a thriller novel."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a still life painting of fruit and label its components."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a program to simulate the game of Hangman in Python."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody for a theme song in an anime series."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a scenic landscape using only colors and textures."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Create a simple algorithm to generate a random password."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody using only three notes."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Code",
+        "Prompt": "Write a JavaScript function to check if a number is prime."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Image",
+        "Prompt": "Describe a futuristic city using only colors and textures."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody using only four notes."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Text",
+        "Prompt": "Write a short poem about the beauty of nature."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody using only two notes."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody using only one note."
+    },
+    {
+        "Category": "Generation",
+        "Type": "Music",
+        "Prompt": "Compose a short melody using only silence."
+    }
+]
